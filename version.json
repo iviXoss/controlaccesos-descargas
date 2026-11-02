@@ -1,1 +1,8 @@
-{ "version": "1.4.49", "url": "https://github.com/iviXoss/controlaccesos-descargas/releases/download/v1.4.49/Instalar_ControlAccesos_1.4.49.exe" }
+{
+  "version": "1.4.49",
+  "url": "https://github.com/iviXoss/controlaccesos-descargas/releases/download/v1.4.49/Instalar_ControlAccesos_1.4.49.exe",
+  "mac": {
+    "version": "1.4.49",
+    "url": "https://github.com/iviXoss/controlaccesos-descargas/releases/download/v1.4.49/Instalar_ControlAccesos_1.4.49.dmg"
+  }
+}
